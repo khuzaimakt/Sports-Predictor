@@ -1,0 +1,1 @@
+{'DEN': 0, 'NOR': 1, 'SEA': 2, 'KAN': 3, 'TAM': 4, 'CIN': 5, 'IND': 6, 'PHI': 7, 'JAX': 8, 'PIT': 9, 'CLE': 10, 'TEN': 11, 'STL': 12, 'MIN': 13, 'MIA': 14, 'GNB': 15, 'SDG': 16, 'NWE': 17, 'NYG': 18, 'OAK': 19, 'CHI': 20, 'LAC': 21, 'BAL': 22, 'LVR': 23, 'LAR': 24, 'HOU': 25, 'CAR': 26, 'SFO': 27, 'DAL': 28, 'DET': 29, 'ARI': 30, 'BUF': 31, 'ATL': 32, 'WAS': 33, 'NYJ': 34}

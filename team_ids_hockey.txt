@@ -1,0 +1,1 @@
+{'DET': 0, 'MIN': 1, 'WPG': 2, 'SJS': 3, 'BUF': 4, 'NYR': 5, 'OTT': 6, 'STL': 7, 'CGY': 8, 'BOS': 9, 'VAN': 10, 'WSH': 11, 'LAK': 12, 'MTL': 13, 'FLA': 14, 'PIT': 15, 'PHI': 16, 'EDM': 17, 'NJD': 18, 'NSH': 19, 'DAL': 20, 'ATL': 21, 'NYI': 22, 'COL': 23, 'TOR': 24, 'ARI': 25, 'CBJ': 26, 'CAR': 27, 'TBL': 28, 'CHI': 29, 'VEG': 30, 'ANA': 31, 'PHX': 32, 'SEA': 33, 'MDA': 34}
